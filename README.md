@@ -1,2 +1,2 @@
 # ArcturusFTC
-Files for Programming Stuff
+Files for robotics
